@@ -5,8 +5,8 @@ package com.haozi.demo.algorithm.audition;
  */
 public class WeiYunSuan {
     public static void main(String[] args) {
-        int a =2;
-        int b=3;
+        int a = 2;
+        int b = 3;
         System.out.println(Integer.toString(a & -a));
         System.out.println(Integer.toString(b & -b));
     }
